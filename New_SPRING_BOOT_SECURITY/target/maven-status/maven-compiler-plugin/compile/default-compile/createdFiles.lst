@@ -1,0 +1,6 @@
+com\newspring\security\NewSpringBootSecurityApplication.class
+com\newspring\security\repo\Customerrepo.class
+com\newspring\security\service\Customerservice.class
+com\newspring\security\entity\Customer.class
+com\newspring\security\controller\CustomerCOntroller.class
+com\newspring\security\config\AppSecurity.class
